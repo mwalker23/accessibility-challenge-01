@@ -1,2 +1,2 @@
-# accessibiltiy-challenge-01
+# accessibility-challenge-01
 this follows accessibility standards optimized for search engines
